@@ -1,0 +1,7 @@
+1- Realice etiquetas meta keywords en todos lo HTML:
+En el index coloque: river, futbol, superclasico, butacas, monumental
+En Historia coloque: historia, river, partido, super, superclasico
+En Galeria coloque: galeria, fotos, river, superclasico
+En Contacto coloque: contactos, ayuda, asistencia, river
+
+2- Tambien realice etiqueta meta de description
