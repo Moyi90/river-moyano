@@ -1,0 +1,22 @@
+header {
+  color: aqua; }
+  header nav {
+    color: black;
+    background-color: #D4D4AA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    header nav ul {
+      color: red;
+      list-style: none;
+      display: flex;
+      font-size: 900; }
+
+main section h2 {
+  color: beige; }
+
+main section p {
+  color: aquamarine; }
+
+main section img {
+  color: maroon; }

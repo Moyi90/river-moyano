@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Fauna+One&family=Qwitcher+Grypen&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.parrafo, .section {
+  text-align: center;
+  font-size: 25px; }
+
+.header {
+  background-color: #ffe4c4;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  height: 5vh; }
+  .header__logo {
+    margin-left: 1rem; }
+  .header__ul {
+    display: flex;
+    list-style: none; }
+    .header__ul--active {
+      font-weight: 900; }
+    .header__ul li {
+      margin: 1rem;
+      font-family: "Qwitcher Grypen", cursive; }
+    .header__ul a {
+      color: blue;
+      text-decoration: none; }
+
+.parrafo {
+  background-color: red;
+  color: white;
+  text-transform: uppercase; }
+
+.section {
+  background-color: red;
+  color: white;
+  text-transform: uppercase; }
+
+.footer {
+  background-color: #D4D4AA; }
+
+.footer ul {
+  display: flex;
+  list-style: none;
+  width: 350px;
+  margin: 0 auto;
+  justify-content: center; }
+
+.footer li {
+  margin: 5px; }

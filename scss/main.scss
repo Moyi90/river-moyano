@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// variables
+@import './variables/colores';
+@import './variables/typo';
+@import './variables/tamanio';
+@import './variables/extend';
+
+
+// secciones
+@import './secciones/header';
+@import './secciones/mainIndex';
+@import './secciones/footer';

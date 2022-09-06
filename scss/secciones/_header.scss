@@ -1,0 +1,28 @@
+.header {
+    background-color: $fondoHeader;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: $altominimo - 95vh;
+
+    &__logo {
+        margin-left: 1rem;
+    }
+
+    &__ul {
+        display: flex;
+        list-style: none;
+        &--active{
+            font-weight: 900;
+        }
+        li {
+            margin: 1rem;
+            font-family: $cursiva;
+        }
+
+        a {
+            color: $azul;
+            text-decoration: none;
+        }
+    }
+}

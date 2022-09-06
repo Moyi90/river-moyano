@@ -1,0 +1,9 @@
+.parrafo{
+    @extend %estiloParrafo;
+    @include fontStyle (red);
+}
+
+.section{
+    @extend %estiloParrafo;
+    @include fontStyle (red);
+}
